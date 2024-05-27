@@ -2,7 +2,7 @@
 
 Meu nome é Luiz Philipi
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha  organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -11,3 +11,5 @@ Meu nome é Luiz Philipi
   luizphilipi52@gmail.com
   
   @_luizphilippi
+
+![]( https://media1.tenor.com/m/lvpxGWlgqGoAAAAC/cows-breakfast.gif)
